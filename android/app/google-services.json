@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133372915257",
+    "project_id": "ecommercenew-105ed",
+    "storage_bucket": "ecommercenew-105ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133372915257:android:20a5e53f335eaa3c3267e8",
+        "android_client_info": {
+          "package_name": "ghazi.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133372915257-snour9o2tn9lsa4gbgomect6l4sp8obe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhJ6VMAcfkx0ZOuOcWH72Nv4zsLKtoPZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133372915257-snour9o2tn9lsa4gbgomect6l4sp8obe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
